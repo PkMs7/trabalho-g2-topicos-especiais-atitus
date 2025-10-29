@@ -1,3 +1,9 @@
+# Alunos
+Patrick Marques
+Ricardo Kiess Marin
+Pedro H. Fronza
+Luiz Eduardo Treméa
+
 # 🎬 CineApp – Catálogo de Filmes Populares
 
 Um aplicativo Flutter que consome a API do [The Movie Database (TMDb)](https://www.themoviedb.org/), exibindo uma lista de filmes populares com pôster, título e detalhes completos.
