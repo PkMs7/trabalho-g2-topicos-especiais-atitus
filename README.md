@@ -41,7 +41,7 @@ Desenvolver um app moderno e funcional, aplicando **arquitetura MVVM**, **requis
 
 ## 🏗 Estrutura de Pastas
 
-```bash
+```
 lib/
 ├── main.dart
 ├── models/
@@ -53,10 +53,7 @@ lib/
 └── views/
     ├── home_page.dart
     └── details_page.dart
-
-
-
-
+```
 ---
 
 ## 🌐 API Utilizada
@@ -70,15 +67,17 @@ lib/
   `title`, `overview`, `poster_path`, `vote_average`, `release_date`
 
 ---
-
+```
 ## ⚙️ Dependências principais
 
-```yaml
+yaml
 dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.0
   provider: ^6.1.0
+
+```
 
 🧠 Desenvolvido com
 
