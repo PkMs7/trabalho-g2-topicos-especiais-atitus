@@ -1,6 +1,5 @@
 # 👨‍💻 Alunos  
 
-| Nome |
 | **Patrick Marques** 
 | **Ricardo Kiess Marin** 
 | **Pedro H. Fronza** 
