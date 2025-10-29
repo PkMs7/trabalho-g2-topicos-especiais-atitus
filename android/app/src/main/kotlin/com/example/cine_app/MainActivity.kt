@@ -1,4 +1,4 @@
-package com.example.aplicacao_modelo
+package com.example.cine_app
 
 import io.flutter.embedding.android.FlutterActivity
 

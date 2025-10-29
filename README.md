@@ -1,4 +1,4 @@
-# aplicacao_modelo
+# cine_app
 
 A new Flutter project.
 
