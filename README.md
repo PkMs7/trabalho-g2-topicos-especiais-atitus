@@ -32,3 +32,45 @@ Desenvolver um app moderno e funcional, aplicando **arquitetura MVVM**, **requis
 
 ## 🏗 Estrutura de Pastas
 
+lib/
+├── main.dart
+├── models/
+│ └── movie.dart
+├── services/
+│ └── api_service.dart
+├── viewmodels/
+│ └── movie_view_model.dart
+└── views/
+├── home_page.dart
+└── details_page.dart
+
+
+
+---
+
+## 🌐 API Utilizada
+
+- **Base:** [The Movie Database (TMDb)](https://developers.themoviedb.org/3)
+- **Endpoint:**  
+  `https://api.themoviedb.org/3/movie/popular?api_key=YOUR_API_KEY&language=pt-BR`
+- **Imagem:**  
+  `https://image.tmdb.org/t/p/w500/{poster_path}`
+- **Campos usados:**  
+  `title`, `overview`, `poster_path`, `vote_average`, `release_date`
+
+---
+
+## ⚙️ Dependências principais
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  provider: ^6.1.0
+
+🧠 Desenvolvido com
+
+💙 Flutter • 🧩 MVVM • 🌍 TMDb API • ⚡ Provider
+
+🌟 Dê uma estrela se curtiu o projeto!
