@@ -7,11 +7,6 @@
 
 ---
 
-# 🎬 CineApp – Catálogo de Filmes Populares  
-
-Um aplicativo Flutter que consome a API do [The Movie Database (TMDb)](https://www.themoviedb.org/), exibindo uma lista de filmes populares com pôster, título e detalhes completos.  
-
-
 # 🎬 CineApp – Catálogo de Filmes Populares
 
 Um aplicativo Flutter que consome a API do [The Movie Database (TMDb)](https://www.themoviedb.org/), exibindo uma lista de filmes populares com pôster, título e detalhes completos.
@@ -46,17 +41,19 @@ Desenvolver um app moderno e funcional, aplicando **arquitetura MVVM**, **requis
 
 ## 🏗 Estrutura de Pastas
 
+```bash
 lib/
 ├── main.dart
 ├── models/
-│ └── movie.dart
+│   └── movie.dart
 ├── services/
-│ └── api_service.dart
+│   └── api_service.dart
 ├── viewmodels/
-│ └── movie_view_model.dart
+│   └── movie_view_model.dart
 └── views/
-├── home_page.dart
-└── details_page.dart
+    ├── home_page.dart
+    └── details_page.dart
+
 
 
 
